@@ -1,0 +1,48 @@
+#Next / Most Urgent
+header and footer partials
+
+
+
+#General
+
+
+
+
+#Header
+keep background as no background (i.e. white) but have some of primary color in logo.
+
+
+
+#Navigation
+Need to get full set of matching social icons in social-bar.
+Add titles to social bar icons so when you hover it says what is is e.g. email, facebook.
+
+
+
+#Main
+Need to work out what setting .title to position: relative does
+
+
+
+#Contact
+have a "work phone and phone number" but don't advertise it on website.  Don't advertise.  Remove "contact-info" from contact page and just have social-bar underneath contact-form and footer underneath that
+
+
+
+
+#Responsiveness
+index.html:
+    Ipad Air 820x1180
+    Ipad Mini 768x1024
+    Surface Pro 7 912x1368
+
+    Galaxy Fold - logo goes under toggle
+
+    Nest Hub - logo and main h1 are too close together - more margin padding to top of main h1 required
+
+
+
+
+#Done
+300523 bjb 
+Make home screen main section busier on standard screen (<768px) with smaller picture of me or background video with opacity in main section or something like that.
